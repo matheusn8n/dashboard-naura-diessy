@@ -10,16 +10,25 @@ Dashboard interativo para análise de performance de atendimento.
 
 ## 📊 Funcionalidades
 
-- Métricas principais de atendimento
-- Comparativo entre atendentes
-- Gráficos interativos
-- Insights automáticos
-- Recomendações baseadas em dados
+- ✅ Upload direto de arquivos Excel
+- ✅ Métricas principais de atendimento
+- ✅ Comparativo entre atendentes
+- ✅ Gráficos interativos
+- ✅ Insights automáticos
+- ✅ Recomendações baseadas em dados
+
+## 🔧 Versão Corrigida
+
+Esta versão foi otimizada para funcionar perfeitamente no Streamlit Cloud:
+- Dependências simplificadas
+- Código otimizado
+- Tratamento de erros melhorado
+- Interface responsiva
 
 ## 📅 Última atualização
 
-21/07/2025 16:43
+21/07/2025 17:14
 
-## 🔗 Acesso
+## 🌐 Deploy
 
-Dashboard disponível em: [URL será gerada após deploy]
+Versão corrigida para Streamlit Cloud - sem erros de dependências.
