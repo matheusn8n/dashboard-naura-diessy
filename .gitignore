@@ -12,3 +12,4 @@ pip-delete-this-directory.txt
 Thumbs.db
 *.xlsx
 *.xls
+app_backup_*.py
